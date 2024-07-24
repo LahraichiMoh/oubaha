@@ -698,7 +698,7 @@ button[type=submit] {
   left: 0;
   top: 0;
   z-index: 3;
-  background-image: linear-gradient(white, #ffffff38);
+  background-image: linear-gradient(to top, rgb(255 255 255 / 0%), rgb(255 255 255))
 }
 .navbar .container {
   flex-direction: column;
