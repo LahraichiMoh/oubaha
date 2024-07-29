@@ -424,7 +424,7 @@ header nav a {
 }
 
 header nav a span {
-    color: inherit
+    color: white
 }
 
 header nav a:hover {
@@ -855,7 +855,7 @@ header .cover-hide.active {
 .hamburger>div span {
     width: 32px;
     height: 1px;
-    background-color: var(--Header01)
+    background-color: white
 }
 
 .hamburger .a2 {
@@ -8974,7 +8974,7 @@ button.gm-ui-hover-effect {
     --Border03: #B7B7AA;
     --Border04: #98998c;
     --Link01: #6B6D5F;
-    --Ascent01: #F17105;
+    --Ascent01: #fff;
     --Free: #BACFB7;
     --Reserved: #E6D0A1;
     --Sold: #E0B9B2;
