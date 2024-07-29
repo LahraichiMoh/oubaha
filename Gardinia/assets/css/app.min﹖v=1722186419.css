@@ -522,7 +522,7 @@ header .cover-hide.active {
 }
 
 .header-scroll header {
-    background-color: #035d52;
+    background-color: #ff0897;
     -webkit-box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     z-index: 101
@@ -8955,10 +8955,10 @@ button.gm-ui-hover-effect {
 }
 
 :root {
-    --Background01: #035d52;
+    --Background01: #ff0a97;
     --Background02: #6B6D5F;
     --Background03: #ffdd84;
-    --Background04: #D9D7C8;
+    --Background04: #d2d7d8;
     --Background05: #707070;
     --Background06: #F3F1E6;
     --Header01: #626456;
