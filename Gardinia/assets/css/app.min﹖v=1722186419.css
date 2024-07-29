@@ -2354,7 +2354,7 @@ footer .evo svg:hover .evo {
 }
 
 #table .st h3 {
-    color: #3d3d3d;
+    color: #fff;
     font-size: 18px
 }
 
@@ -2379,7 +2379,7 @@ footer .evo svg:hover .evo {
 #table .title h2 {
     font-family: var(--FontTitle);
     font-size: var(--FontXlSize);
-    color: var(--Header01);
+    color: #fff;
     padding-bottom: 12px
 }
 
@@ -2391,7 +2391,7 @@ footer .evo svg:hover .evo {
 
 #table .title span {
     font-size: 18px;
-    color: #3d3d3d
+    color: #fff
 }
 
 #table .basic {
@@ -2417,13 +2417,13 @@ footer .evo svg:hover .evo {
 #table .basic h3 {
     font-size: 30px;
     line-height: 1;
-    color: #3d3d3d
+    color: #fff
 }
 
 #table .basic span {
     font-size: 18px;
     padding-bottom: 4px;
-    color: #3d3d3d
+    color: #fff
 }
 
 #table .basic .mobile {
@@ -4366,7 +4366,7 @@ button.gm-ui-hover-effect {
     background-color: var(--Background03);
     overflow-x: hidden;
     position: relative;
-    min-height: 67vw;
+    min-height: 47vw;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
