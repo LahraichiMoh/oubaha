@@ -424,7 +424,7 @@ header nav a {
 }
 
 header nav a span {
-    color: white
+    color: inherit
 }
 
 header nav a:hover {
@@ -522,7 +522,7 @@ header .cover-hide.active {
 }
 
 .header-scroll header {
-    background-color: #035d52;
+    background-color: #f3f1e6;
     -webkit-box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     z-index: 101
@@ -855,7 +855,7 @@ header .cover-hide.active {
 .hamburger>div span {
     width: 32px;
     height: 1px;
-    background-color: white
+    background-color: var(--Header01)
 }
 
 .hamburger .a2 {
@@ -1123,7 +1123,7 @@ header .cover-hide.active {
 }
 
 footer {
-    background-color: #005e52;
+    background-color: var(--Background03);
     min-height: 180px;
     width: 100%
 }
@@ -2354,7 +2354,7 @@ footer .evo svg:hover .evo {
 }
 
 #table .st h3 {
-    color: #fff;
+    color: #3d3d3d;
     font-size: 18px
 }
 
@@ -2379,7 +2379,7 @@ footer .evo svg:hover .evo {
 #table .title h2 {
     font-family: var(--FontTitle);
     font-size: var(--FontXlSize);
-    color: #fff;
+    color: var(--Header01);
     padding-bottom: 12px
 }
 
@@ -2391,7 +2391,7 @@ footer .evo svg:hover .evo {
 
 #table .title span {
     font-size: 18px;
-    color: #fff
+    color: #3d3d3d
 }
 
 #table .basic {
@@ -2417,13 +2417,13 @@ footer .evo svg:hover .evo {
 #table .basic h3 {
     font-size: 30px;
     line-height: 1;
-    color: #fff
+    color: #3d3d3d
 }
 
 #table .basic span {
     font-size: 18px;
     padding-bottom: 4px;
-    color: #fff
+    color: #3d3d3d
 }
 
 #table .basic .mobile {
@@ -4366,7 +4366,7 @@ button.gm-ui-hover-effect {
     background-color: var(--Background03);
     overflow-x: hidden;
     position: relative;
-    min-height: 47vw;
+    min-height: 67vw;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -8974,7 +8974,7 @@ button.gm-ui-hover-effect {
     --Border03: #B7B7AA;
     --Border04: #98998c;
     --Link01: #6B6D5F;
-    --Ascent01: #fff;
+    --Ascent01: #F17105;
     --Free: #BACFB7;
     --Reserved: #E6D0A1;
     --Sold: #E0B9B2;
