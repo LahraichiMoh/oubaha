@@ -6490,7 +6490,7 @@ button.gm-ui-hover-effect {
 }
 
 .location-00 .categories .category:hover::after {
-    height: 147px
+    height: 0
 }
 
 .location-00 .categories .category:hover svg * {
