@@ -1,6 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="154.627" height="70.716" viewBox="0 0 154.627 70.716">
-  <g id="kabutes" transform="translate(-333.621 -2092.15)">
-    <path id="Path_35" data-name="Path 35" d="M10146.8,184.432l70.627-40.78v-28.57H10146.8Z" transform="translate(-9812.676 1977.568)" fill="none" stroke="#f17105" stroke-width="1"/>
-    <path id="Path_5761" data-name="Path 5761" d="M10146.8,184.432l70.627-40.78v-28.57H10146.8Z" transform="translate(-9729.676 1977.568)" fill="none" stroke="#f17105" stroke-width="1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 154.6 70.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #035d52;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Calque_1">
+      <g id="kabutes">
+        <path id="Path_35" class="cls-1" d="M.5,69.9L71.1,29.1V.5H.5v69.3Z"/>
+        <path id="Path_5761" class="cls-1" d="M83.5,69.9l70.6-40.8V.5h-70.6v69.3Z"/>
+      </g>
+    </g>
   </g>
 </svg>

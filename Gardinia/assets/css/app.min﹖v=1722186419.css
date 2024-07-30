@@ -4283,9 +4283,9 @@ button.gm-ui-hover-effect {
 }
 
 .main-03 {
-    background-color: var(--Background02);
+    background-color: #f3f1e6;
     width: 100%;
-    padding-top: 200px;
+    padding-top: 3%;
     margin-top: -1px
 }
 
@@ -4302,17 +4302,17 @@ button.gm-ui-hover-effect {
     font-family: var(--FontTitle);
     font-size: var(--FontTitleSize);
     line-height: var(--FontTitleSize);
-    color: var(--Header03);
+    color: var(--Background01);
     padding-bottom: 57px
 }
 
 .main-03 .text span {
-    color: var(--Header04);
+    color: var(--Background01);
     font-size: var(--FontTinySize)
 }
 
 .main-03 .text h4 {
-    color: var(--Header04);
+    color: var(--Background01);
     font-size: var(--FontSmallSize);
     padding-bottom: 9px
 }
@@ -8456,7 +8456,7 @@ button.gm-ui-hover-effect {
     -ms-flex-positive: 1;
     flex-grow: 1;
     display: grid;
-    grid-template-columns: 1fr 627px 1fr
+    grid-template-columns: 1fr 1fr
 }
 
 .room-00 .wrapper>div {
@@ -8506,7 +8506,7 @@ button.gm-ui-hover-effect {
 
 @media screen and (max-width: 1680px) {
     .room-00 .wrapper {
-        grid-template-columns: 1fr 540px 1fr
+        grid-template-columns: 1fr 1fr
     }
 
     .room-00 .info {
@@ -8553,7 +8553,7 @@ button.gm-ui-hover-effect {
     }
 
     .room-00 .wrapper {
-        grid-template-columns: 1fr 480px 1fr
+        grid-template-columns: 1fr 1fr
     }
 
     .room-00 .img {
@@ -8569,7 +8569,7 @@ button.gm-ui-hover-effect {
 
 @media screen and (max-width: 1280px) {
     .room-00 .wrapper {
-        grid-template-columns: 1fr 432px 280px
+        grid-template-columns: 1fr 1fr
     }
 
     .room-00 .right {
