@@ -1219,7 +1219,7 @@ footer .evo svg:hover .evo {
 
 .contact-01 {
     overflow-y: hidden;
-    background-color: var(--Background03);
+    background-color: var(--Background01);
     position: relative;
     padding-top: 157px;
     margin-top: -1px
@@ -4097,7 +4097,7 @@ button.gm-ui-hover-effect {
 .main-02 {
     position: relative;
     z-index: 10;
-    background-color: var(--Background02);
+    background-color: var(--Background01);
     position: relative;
     min-height: 58vw;
     display: -webkit-box;
@@ -4363,7 +4363,7 @@ button.gm-ui-hover-effect {
 
 .main-04 {
     margin-top: -44px;
-    background-color: var(--Background03);
+    background-color: var(--Background01);
     overflow-x: hidden;
     position: relative;
     min-height: 47vw;
@@ -4464,7 +4464,7 @@ button.gm-ui-hover-effect {
 
 .main-05 {
     min-height: 100px;
-    background-color: var(--Background03)
+    background-color: var(--Background01)
 }
 
 @media screen and (max-width: 1900px) {
@@ -7748,7 +7748,7 @@ button.gm-ui-hover-effect {
 
 .room-00 {
     position: relative;
-    min-height: 100vh;
+    min-height: 80vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex
@@ -7855,7 +7855,7 @@ button.gm-ui-hover-effect {
 }
 
 .room-00 .back span {
-    color: var(--Link01);
+    color: var(--Ascent01);
     -webkit-transition: color .6s;
     transition: color .6s;
     font-size: 15px;
@@ -7984,7 +7984,7 @@ button.gm-ui-hover-effect {
 
 .room-00 .info .title h2 {
     font-size: var(--FontXlSize);
-    color: #6b6d5f;
+    color: #fff;
     padding-bottom: 10px
 }
 
@@ -8094,7 +8094,7 @@ button.gm-ui-hover-effect {
 }
 
 .room-00 .info .body p {
-    color: #6b6d5f;
+    color: #fff;
     font-size: 18px
 }
 
