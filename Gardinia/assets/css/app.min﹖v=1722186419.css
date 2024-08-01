@@ -7989,7 +7989,7 @@ button.gm-ui-hover-effect {
 }
 
 .room-00 .info .title span {
-    color: #6b6d5f;
+    color: #fff;
     font-size: 12px
 }
 
@@ -8293,8 +8293,15 @@ button.gm-ui-hover-effect {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column
+    /* -ms-flex-direction: column; */
+    /* flex-direction: column */
+    align-items: center;
+}
+
+.tsur{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 500;
 }
 
 .room-00 .middle .hover {
