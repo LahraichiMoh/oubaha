@@ -4227,7 +4227,7 @@ button.gm-ui-hover-effect {
     display: flex;
     -webkit-box-align: end;
     -ms-flex-align: end;
-    align-items: flex-end
+    align-items: center
 }
 
 .main-02 .wrapper .left .text p {
@@ -4366,7 +4366,7 @@ button.gm-ui-hover-effect {
     background-color: var(--Background01);
     overflow-x: hidden;
     position: relative;
-    min-height: 47vw;
+    min-height: 40vw;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4458,7 +4458,7 @@ button.gm-ui-hover-effect {
     width: 100%;
     display: block;
     position: absolute;
-    top: -1px;
+    top: -200px;
     left: 0
 }
 
@@ -6424,7 +6424,7 @@ button.gm-ui-hover-effect {
     justify-content: center;
     gap: 13px;
     width: 100%;
-    max-width: 310px;
+    max-width: 400px;
     padding-bottom: 33px;
     border-bottom: 1px solid var(--Border03)
 }
