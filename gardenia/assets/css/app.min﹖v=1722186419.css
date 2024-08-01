@@ -6494,11 +6494,11 @@ button.gm-ui-hover-effect {
 }
 
 .location-00 .categories .category:hover svg * {
-    stroke: var(--Ascent01)
+    stroke: var(--Background01)
 }
 
 .location-00 .categories .category:hover p {
-    color: var(--Ascent01)
+    color: var(--Background01)
 }
 
 .location-00 .categories .category::after {
