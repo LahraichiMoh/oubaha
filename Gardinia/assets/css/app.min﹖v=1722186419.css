@@ -25,7 +25,7 @@
 }
 
 .btn span {
-    color: #f17105;
+    color: #fff;
     font-size: 15px;
     font-weight: 400;
     font-family: "Montserrat";
@@ -9419,7 +9419,7 @@ input {
     position: fixed;
     inset: 0;
     height: 100vh;
-    background-color: #626456;
+    background-color: var(--Background01);
     pointer-events: none
 }
 
