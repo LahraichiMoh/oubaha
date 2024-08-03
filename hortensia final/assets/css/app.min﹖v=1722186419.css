@@ -522,7 +522,7 @@ header .cover-hide.active {
 }
 
 .header-scroll header {
-    background-color: #035d52;
+    background-color: #ebc6dc;
     -webkit-box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     z-index: 101
@@ -1123,7 +1123,7 @@ header .cover-hide.active {
 }
 
 footer {
-    background-color: #005e52;
+    background-color: #ebc6dc;
     min-height: 180px;
     width: 100%
 }
@@ -2379,7 +2379,7 @@ footer .evo svg:hover .evo {
 #table .title h2 {
     font-family: var(--FontTitle);
     font-size: var(--FontXlSize);
-    color: #fff;
+    color: #000;
     padding-bottom: 12px
 }
 
@@ -2391,7 +2391,7 @@ footer .evo svg:hover .evo {
 
 #table .title span {
     font-size: 18px;
-    color: #fff
+    color: #000
 }
 
 #table .basic {
@@ -2417,13 +2417,13 @@ footer .evo svg:hover .evo {
 #table .basic h3 {
     font-size: 30px;
     line-height: 1;
-    color: #fff
+    color: #000
 }
 
 #table .basic span {
     font-size: 18px;
     padding-bottom: 4px;
-    color: #fff
+    color: #000
 }
 
 #table .basic .mobile {
@@ -2538,7 +2538,7 @@ footer .evo svg:hover .evo {
 }
 
 #table tbody tr:hover {
-    background-color: rgba(216, 214, 204, .3294117647)
+    background-color: rgb(231 124 174 / 40%)
 }
 
 #table tbody td:before {
@@ -4234,7 +4234,7 @@ button.gm-ui-hover-effect {
     max-width: 459px;
     font-size: var(--FontNormalSize);
     line-height: var(--FontNormalLine);
-    color: var(--Header04)
+    color: var(--Header03)
 }
 
 .main-02 .wrapper .left .text h2 {
@@ -4283,7 +4283,7 @@ button.gm-ui-hover-effect {
 }
 
 .main-03 {
-    background-color: #f3f1e6;
+    background-color: #edf9ff;
     width: 100%;
     padding-top: 3%;
     margin-top: -1px
@@ -4302,17 +4302,17 @@ button.gm-ui-hover-effect {
     font-family: var(--FontTitle);
     font-size: var(--FontTitleSize);
     line-height: var(--FontTitleSize);
-    color: var(--Background01);
+    color: var(--Header03);
     padding-bottom: 40px
 }
 
 .main-03 .text span {
-    color: var(--Background01);
+    color: var(--Header03);
     font-size: var(--FontTinySize)
 }
 
 .main-03 .text h4 {
-    color: var(--Background01);
+    color: var(--Header03);
     font-size: var(--FontSmallSize);
     padding-bottom: 9px
 }
@@ -4403,7 +4403,7 @@ button.gm-ui-hover-effect {
 .main-04 .wrapper .right .text p {
     font-size: var(--FontNormalSize);
     line-height: var(--FontNormalLine);
-    color: var(--Header04)
+    color: var(--Header03)
 }
 
 .main-04 .wrapper .right .text h2 {
@@ -8963,15 +8963,15 @@ button.gm-ui-hover-effect {
 }
 
 :root {
-    --Background01: #035d52;
+    --Background01: #c9eafc;
     --Background02: #6B6D5F;
     --Background03: #626456;
-    --Background04: #D9D7C8;
+    --Background04: #edf9ff;
     --Background05: #707070;
     --Background06: #F3F1E6;
     --Header01: #626456;
     --Header02: #F3F1E6;
-    --Header03: #FCECD2;
+    --Header03: #000;
     --Header04: #CECDC1;
     --Header05: #6B6D5F;
     --Header06: #3C3D35;
