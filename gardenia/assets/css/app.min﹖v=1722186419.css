@@ -9488,5 +9488,7 @@ h2 {
 .phone a{
     color: #fff;
 }
-
+html {
+    scroll-behavior: smooth;
+  }
 /*# sourceMappingURL=app.min.css.map */
