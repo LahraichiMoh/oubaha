@@ -8474,7 +8474,7 @@ button.gm-ui-hover-effect {
 
 .room-00 .dec {
     position: absolute;
-    bottom: 0;
+    bottom: -160px;
     right: 0
 }
 
@@ -8585,7 +8585,7 @@ button.gm-ui-hover-effect {
     }
 
     .room-00 .ask {
-        padding-bottom: 138px;
+        padding-bottom: 100px;
         padding-top: 30px
     }
 
@@ -8711,7 +8711,10 @@ button.gm-ui-hover-effect {
     }
 
     .room-00 .middle {
-        padding-right: 0
+        padding-right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 
