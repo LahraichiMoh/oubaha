@@ -9480,4 +9480,13 @@ h2 {
     text-align: center;
 }
 
+.phone{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.phone a{
+    color: #fff;
+}
+
 /*# sourceMappingURL=app.min.css.map */
