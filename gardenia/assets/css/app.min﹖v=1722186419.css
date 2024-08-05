@@ -7900,7 +7900,7 @@ button.gm-ui-hover-effect {
 
 .room-00 .ask .ask-btn span {
     font-size: 50px;
-    color: #f3f1e6;
+    color: var(--Background01);
     font-family: var(--FontTitle)
 }
 
