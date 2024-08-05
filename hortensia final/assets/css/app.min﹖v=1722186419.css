@@ -25,7 +25,7 @@
 }
 
 .btn span {
-    color: #fff;
+    color: #000;
     font-size: 15px;
     font-weight: 400;
     font-family: "Montserrat";
@@ -34,7 +34,7 @@
 
 .btn::after {
     content: "";
-    background-color: var(--Ascent01);
+    background-color: var(--Header04);
     -webkit-transform-origin: center;
     -ms-transform-origin: center;
     transform-origin: center;
@@ -55,7 +55,7 @@
 
 .btn::before {
     content: "";
-    background-color: var(--Ascent01);
+    background-color: var(--Header04);
     -webkit-transform-origin: center center;
     -ms-transform-origin: center center;
     transform-origin: center center;
@@ -522,7 +522,7 @@ header .cover-hide.active {
 }
 
 .header-scroll header {
-    background-color: #ebc6dc;
+    background-color: #c9ebfc;
     -webkit-box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     box-shadow: 0px 3px 6px rgba(0, 0, 0, .1294117647);
     z-index: 101
@@ -1123,7 +1123,7 @@ header .cover-hide.active {
 }
 
 footer {
-    background-color: #ebc6dc;
+    background-color: #c9ebfc;
     min-height: 180px;
     width: 100%
 }
@@ -1142,7 +1142,7 @@ footer .body {
 
 footer .privacy {
     padding-left: 106px;
-    color: #b7b7aa;
+    color: #000;
     -webkit-transition: color .4s;
     transition: color .4s;
     font-size: 15px
@@ -1191,7 +1191,7 @@ footer .evo {
 }
 
 footer .evo span {
-    color: #b7b7aa;
+    color: #000;
     font-size: 12px
 }
 
@@ -1249,7 +1249,7 @@ footer .evo svg:hover .evo {
 }
 
 .contact-01 .top h2 {
-    color: var(--Header03);
+    color: var(--Header04);
     font-family: var(--FontTitle);
     font-size: var(--FontTitleSize)
 }
@@ -1491,14 +1491,14 @@ footer .evo svg:hover .evo {
     border-bottom: 1px solid var(--Border);
     padding: 0 0 2px 6px;
     font-size: 16px;
-    color: #fff;
+    color: #000;
     position: relative;
     -webkit-transition: border .3s ease;
     transition: border .3s ease
 }
 
 .contact-01 form .form-field input:focus {
-    border-bottom: 1px solid #fff
+    border-bottom: 1px solid #000
 }
 
 .contact-01 form .form-field input:focus+label {
@@ -1523,7 +1523,7 @@ footer .evo svg:hover .evo {
 
 .contact-01 form .form-field label {
     pointer-events: none;
-    color: #fff;
+    color: #000;
     position: absolute;
     top: 23px;
     left: 6px;
@@ -1596,7 +1596,7 @@ footer .evo svg:hover .evo {
 .contact-01 form .form-checkbox label {
     -webkit-transition: color .3s ease;
     transition: color .3s ease;
-    color: #f3f1e6;
+    color: #000;
     display: block;
     padding-left: 35px;
     position: relative;
@@ -2538,7 +2538,7 @@ footer .evo svg:hover .evo {
 }
 
 #table tbody tr:hover {
-    background-color: rgb(231 124 174 / 40%)
+    background-color: rgb(184 231 255)
 }
 
 #table tbody td:before {
@@ -4234,11 +4234,11 @@ button.gm-ui-hover-effect {
     max-width: 459px;
     font-size: var(--FontNormalSize);
     line-height: var(--FontNormalLine);
-    color: var(--Header03)
+    color: var(--Header04)
 }
 
 .main-02 .wrapper .left .text h2 {
-    color: var(--Header03);
+    color: var(--Header04);
     font-size: var(--FontTitleSize);
     font-family: var(--FontTitle)
 }
@@ -4283,7 +4283,7 @@ button.gm-ui-hover-effect {
 }
 
 .main-03 {
-    background-color: #edf9ff;
+    background-color: #fff;
     width: 100%;
     padding-top: 3%;
     margin-top: -1px
@@ -4302,17 +4302,17 @@ button.gm-ui-hover-effect {
     font-family: var(--FontTitle);
     font-size: var(--FontTitleSize);
     line-height: var(--FontTitleSize);
-    color: var(--Header03);
+    color: var(--Header04);
     padding-bottom: 40px
 }
 
 .main-03 .text span {
-    color: var(--Header03);
+    color: var(--Background01);
     font-size: var(--FontTinySize)
 }
 
 .main-03 .text h4 {
-    color: var(--Header03);
+    color: var(--Header04);
     font-size: var(--FontSmallSize);
     padding-bottom: 9px
 }
@@ -4403,11 +4403,11 @@ button.gm-ui-hover-effect {
 .main-04 .wrapper .right .text p {
     font-size: var(--FontNormalSize);
     line-height: var(--FontNormalLine);
-    color: var(--Header03)
+    color: var(--Header04)
 }
 
 .main-04 .wrapper .right .text h2 {
-    color: var(--Header03);
+    color: var(--Header04);
     font-size: var(--FontTitleSize);
     font-family: var(--FontTitle)
 }
@@ -7900,7 +7900,7 @@ button.gm-ui-hover-effect {
 
 .room-00 .ask .ask-btn span {
     font-size: 50px;
-    color: #f3f1e6;
+    color: var(--Background01);
     font-family: var(--FontTitle)
 }
 
@@ -8474,7 +8474,7 @@ button.gm-ui-hover-effect {
 
 .room-00 .dec {
     position: absolute;
-    bottom: 0;
+    bottom: -160px;
     right: 0
 }
 
@@ -8585,7 +8585,7 @@ button.gm-ui-hover-effect {
     }
 
     .room-00 .ask {
-        padding-bottom: 138px;
+        padding-bottom: 100px;
         padding-top: 30px
     }
 
@@ -8711,7 +8711,10 @@ button.gm-ui-hover-effect {
     }
 
     .room-00 .middle {
-        padding-right: 0
+        padding-right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 
@@ -8966,13 +8969,13 @@ button.gm-ui-hover-effect {
     --Background01: #c9eafc;
     --Background02: #6B6D5F;
     --Background03: #626456;
-    --Background04: #edf9ff;
+    --Background04: #D9D7C8;
     --Background05: #707070;
     --Background06: #F3F1E6;
     --Header01: #626456;
     --Header02: #F3F1E6;
-    --Header03: #000;
-    --Header04: #CECDC1;
+    --Header03: #FCECD2;
+    --Header04: #000;
     --Header05: #6B6D5F;
     --Header06: #3C3D35;
     --Header07: #ffffff;
@@ -9473,4 +9476,19 @@ h2 {
     }
 }
 
+.category p {
+    text-align: center;
+}
+
+.phone{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.phone a{
+    color: #000;
+}
+html {
+    scroll-behavior: smooth;
+  }
 /*# sourceMappingURL=app.min.css.map */
