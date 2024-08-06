@@ -6576,7 +6576,7 @@ button.gm-ui-hover-effect {
 
 .location-02 .categories .category p {
     font-size: var(--FontSmallSize);
-    color: var(--Header02);
+    color: var(--Header04);
     text-transform: uppercase;
     -webkit-transition: color .6s;
     transition: color .6s;
@@ -7985,12 +7985,12 @@ button.gm-ui-hover-effect {
 
 .room-00 .info .title h2 {
     font-size: var(--FontXlSize);
-    color: #fff;
+    color: #000;
     padding-bottom: 10px
 }
 
 .room-00 .info .title span {
-    color: #fff;
+    color: #000;
     font-size: 12px
 }
 
@@ -8095,7 +8095,7 @@ button.gm-ui-hover-effect {
 }
 
 .room-00 .info .body p {
-    color: #fff;
+    color: #000;
     font-size: 18px
 }
 
@@ -8301,7 +8301,7 @@ button.gm-ui-hover-effect {
 
 .tsur{
     font-size: 25px;
-    color: #fff;
+    color: #000;
     font-weight: 500;
 }
 
@@ -9410,7 +9410,7 @@ input {
 @media(hover: hover) {
     ::-webkit-scrollbar {
         width: 10px;
-        background: #d9d7c8
+        background: #c9eafc
     }
 
     ::-webkit-scrollbar-thumb {
@@ -9487,6 +9487,9 @@ h2 {
 }
 .phone a{
     color: #000;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 html {
     scroll-behavior: smooth;
