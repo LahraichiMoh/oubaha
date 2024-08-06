@@ -9487,6 +9487,9 @@ h2 {
 }
 .phone a{
     color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 html {
     scroll-behavior: smooth;
