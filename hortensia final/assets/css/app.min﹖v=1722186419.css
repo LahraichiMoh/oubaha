@@ -1622,7 +1622,7 @@ footer .evo svg:hover .evo {
 .contact-01 form .form-checkbox label:before {
     -webkit-transition: border .3s ease;
     transition: border .3s ease;
-    border: 1px solid rgba(255, 255, 255, .2)
+    border: 1px solid rgb(0 0 0 / 41%)
 }
 
 .contact-01 form .form-checkbox label:after {
@@ -1633,7 +1633,7 @@ footer .evo svg:hover .evo {
 }
 
 .contact-01 form .form-checkbox input:checked+label:before {
-    border: 1px solid var(--Ascent01)
+    border: 1px solid var(--Header04)
 }
 
 .contact-01 form .form-checkbox input:checked+label:after {
