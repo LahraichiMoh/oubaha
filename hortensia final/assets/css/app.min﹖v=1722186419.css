@@ -6384,7 +6384,7 @@ button.gm-ui-hover-effect {
 .location-00 {
     position: relative;
     z-index: 20;
-    background-color: var(--Background04)
+    background-color: #fff
 }
 
 .location-00 .title h1 {
@@ -7884,7 +7884,7 @@ button.gm-ui-hover-effect {
     transition: background-color .6s;
     width: 281px;
     padding: 44px;
-    background-color: #eeca68;
+    background-color: #e993bf;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -7938,15 +7938,15 @@ button.gm-ui-hover-effect {
     height: 0;
     border-style: solid;
     border-width: 164px 281px 0 0;
-    border-color: #eeca68 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0)
+    border-color: #e993bf rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0)
 }
 
 .room-00 .ask .ask-btn:hover {
-    background-color: #eeca68
+    background-color: #e993bf
 }
 
 .room-00 .ask .ask-btn:hover::after {
-    border-color: #eeca68 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0)
+    border-color: #e993bf rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0)
 }
 
 .room-00 .ask .ask-btn:hover .a1,
